@@ -94,6 +94,9 @@ if (surface_exists(ter_surface[0]))
         draw_set_color(c_white); draw_set_alpha(1);
         //draw_rectangle(_x, _y, _x1, _x1, false);
         draw_sprite(spr_Map, 0, 0, 0);
+        
+        draw_set_color(c_maroon);
+        draw_text(5, 5, "Press: Left mouse button on terrain");
     }
     
     if (instance_exists(obj_Destruction))
@@ -127,6 +130,9 @@ if (surface_exists(ter_surface[1]))
         draw_set_color(c_white); draw_set_alpha(1);
         //draw_rectangle(_x, _y, _x1, _x1, false);
         draw_sprite(spr_Map, 0, 0, 0);
+        
+        draw_set_color(c_red);
+        draw_text(5, 5, "Press: Left mouse button on terrain");
     }
     
     if (instance_exists(obj_Destruction))
