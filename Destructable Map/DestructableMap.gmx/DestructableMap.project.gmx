@@ -5,11 +5,15 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\spr_Map</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_Controller_Terrain</object>
+    <object>objects\obj_Destruction</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
