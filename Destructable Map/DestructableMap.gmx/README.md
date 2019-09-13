@@ -1,4 +1,4 @@
-# Naam Proefopdracht
+# Worms like Destructible Map
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
@@ -13,7 +13,7 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 - Ik heb hiervoor Gamemaker studio gebruikt. Deze engine ben ik erg bekent mee en vondt dit mooi om het eerste proef opdracht mee te doen. Dit omdat het school jaar net begonnen is en ik weer in die flow wilde komen.
-- Ik heb dan nooit zon surface gebruikt om een sprite uit te halen met colisie dus dat vondt ik dan ook wel interessant. Dit kun je dan ook gebruiken om bij elkaar gevoegde sprites (Denk aan karakters met verschillende haarkleur of kleding kleur maar die wel de zelfde sprite vorm hebben en met die sprite een kleur te blenden. Kost het veel moeite voor de pc om het per sprite te renderen. Daarom kun je die gekleurde onderdelen om een Surface renderen en daar vanaf een sprite crieeren) ![Clothes apart from characters](https://www.deviantart.com/chasz-manequin/art/basic-walk-template-clothing-sprites-303784863)een komplete sprite van te maken en zo je spel te optimaliseren.
+- Ik heb dan nooit zon surface gebruikt om een sprite uit te halen met colisie dus dat vondt ik dan ook wel interessant. Dit kun je dan ook gebruiken om bij elkaar gevoegde sprites (Denk aan karakters met verschillende haarkleur of kleding kleur maar die wel de zelfde sprite vorm hebben en met die sprite een kleur te blenden. Kost het veel moeite voor de pc om het per sprite te renderen. Daarom kun je die gekleurde onderdelen om een Surface renderen en daar vanaf een sprite crieeren) ![Clothes apart from characters](https://github.com/PeterSchreuderMA/MA_Proefopdrachten/blob/master/Destructable%20Map/DestructableMap.gmx/Clothes%20apart%20from%20characters.png)een komplete sprite van te maken en zo je spel te optimaliseren.
 
 ## Leerdoelen 
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
