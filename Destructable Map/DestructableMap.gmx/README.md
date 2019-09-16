@@ -22,11 +22,11 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
-
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | --- | Begin opdracht | --- | Speelbare versie op website zetten | Git README invullen |
-|week 2 |
+|week 1 | --- | -Begin opdracht -Research & Implementatie |  | Speelbare versie op website zetten | Git README invullen |
+|week 2 | README na laten kijken | 
+
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
