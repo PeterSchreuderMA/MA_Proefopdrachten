@@ -2,17 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Food : MonoBehaviour
+[CreateAssetMenu(fileName = "New Food", menuName = "Food")]
+public class Food : ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public GameObject model;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public string name;
+
+    public float health;//- Life
+    public float cal;//- Enegry
+    public float fat;//- Warmth
+    public float protein;// Strenth
+    
+
 }

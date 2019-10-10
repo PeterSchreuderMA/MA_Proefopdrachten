@@ -7,23 +7,28 @@ Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-### De shader:
+- De shader:
+    -
+    De bedoeling met de shader is dat ie de ['normals'](https://tinyurl.com/pcnesy2) van een 3D object met een 'amount' naar buiten kan trekken.
+    Waardoor het lijkt dat het object dikker is.
     
-De bedoeling met de shader is dat ie de ['normals'](https://tinyurl.com/pcnesy2) van een 3D object met een 'amount' naar buiten kan trekken.
-Waardoor het lijkt dat het object dikker is.
-
-'Amount' 0%
-![](https://docs.unity3d.com/560/Documentation/uploads/Main/SurfaceShaderDiffuseBump.png)
-
-'Amount' 50%
-![](https://docs.unity3d.com/560/Documentation/uploads/Main/SurfaceShaderNormalExtrusion.png)
+    'Amount' 0%
+    ![](https://docs.unity3d.com/560/Documentation/uploads/Main/SurfaceShaderDiffuseBump.png)
     
-### Het eten:
-     
-![](https://assetstorev1-prd-cdn.unity3d.com/key-image/d4d10318-eb2f-4f66-8630-42bf6e208182.jpg)
+    'Amount' 50%
+    ![](https://docs.unity3d.com/560/Documentation/uploads/Main/SurfaceShaderNormalExtrusion.png)
     
-De bedoeling met het eten is dat de speler hierdoor slanker (gezond eten) of dikker (ongezond eten) word.
-En zo sneller kan rennen of beter koude tempraturen kan weerstaan.
+- Het eten:
+    -    
+    ![](https://assetstorev1-prd-cdn.unity3d.com/key-image/d4d10318-eb2f-4f66-8630-42bf6e208182.jpg)
+        
+    De bedoeling met het eten is dat de speler hierdoor slanker (gezond eten) of dikker (ongezond eten) word.
+    En zo sneller kan rennen of beter koude tempraturen kan weerstaan.
+    
+    - Ik heb hiervoor nodig:
+        -
+        - Scriptable objects
+        - Models
 
 
 ## Software Anaylse 
@@ -52,9 +57,11 @@ Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uitei
         
         En Unreal crashed bij een fout pittig snel waardoor de ontwikkel tijd enorm vergroot. 
         
-    - Waarom Unity?: 
-            - 
-            Unity die gebruikt C# en daar ben veel bekender mee dan C++. In Unity kan ik ook nog sneller en beter gameplay voor het spel bouwen. Kort gezegd, de code kan ik sneller schrijven dan in Unreal
+    - Waarom niet met Shader graph voor Unity?: 
+        - 
+        Shader Graph is dan wel een stuk makkelijker te gebruiken dan gewoon te werken met code. Maar ik wil erg graag weten hoe shaders zelf werken. En met een DnD systeem zou ik er een stuk moeilijker achter komen.
+        
+        Als ik het in code  
 
 
 ## Leerdoelen 
