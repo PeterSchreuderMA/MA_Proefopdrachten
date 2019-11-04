@@ -2,6 +2,8 @@
 
 Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan? 
 
+Voor deze opdracht moet je een shader maken die een model dikker laat lijken. Hierop moet je een spel bouwen.
+
 
 
 ## Features
@@ -27,9 +29,19 @@ Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie ben
     
     - Ik heb hiervoor nodig:
         -
-        - Scriptable objects
-        - Models
+        - Scriptable objects.
+        - Models.
 
+- De Speler:
+    -    
+    ![](https://assetstorev1-prd-cdn.unity3d.com/key-image/4afb9c7f-ec8f-47c9-8634-0ed1e4499529.jpg)
+        
+    De speler beweeg je door het level. Je ontwijkt slecht voedsel en raapt het gezoende voedsel op. De speler word dikker of dunner, sneller of trager, sterker of zwakker afhankelijk op wat de speler eet.
+    
+    - Ik heb hiervoor nodig:
+        -
+        - Player controller script.
+        - Manier om de dik maak shader op te roepen.
 
 ## Software Anaylse 
 Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
